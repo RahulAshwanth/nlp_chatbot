@@ -1,6 +1,6 @@
 # Simple Python Chatbot
 
-This is a simple chatbot implemented in Python. The chatbot can respond to greetings and a few basic conversation phrases. It demonstrates basic text processing, random selection of responses, and a simple loop to maintain conversation.
+This is a simple chatbot implemented in Python. The chatbot can respond to greetings and a few basic conversation phrases. It demonstrates basic text processing, random selection of responses, and a simple loop to maintain conversation.j
 
 ## Features 
 
