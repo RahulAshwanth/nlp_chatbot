@@ -4,7 +4,7 @@ This is a simple chatbot implemented in Python. The chatbot can respond to greet
 
 ## Features 
 
-- Recognizes and responds to greetings.
+- Recognizes and responds to greetings.n
 - Responds to predefined conversation phrases.
 - Simple and easy to understand code structure.
 - Exits the conversation gracefully when the user types 'bye'.
